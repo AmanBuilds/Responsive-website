@@ -23,7 +23,7 @@ The CSS file provides styling and responsive behavior:
 
 **How to Use**
 1. Clone the repository:
-git clone https://github.com/Rabdevil/responsive-website.git  
+git clone https://github.com/AmanBuilds/responsive-website.git  
 2. Open index.html in any modern web browser to view the site.
 3. Customize the content or style by editing index.html and style.css.
 
